@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace IcarusDroneRepairManagement
 {
+    // 6.1	Create a separate class file to hold the data items of the Drone. Use separate getter and setter methods, ensure the attributes are private and the accessor methods are public. Add a display method that returns a string for Client Name and Service Cost. Add suitable code to the Client Name and Service Problem accessor methods so the data is formatted as Title case or Sentence case. Save the class as “Drone.cs”.
     internal class Drone
     {
         private string clientName;
