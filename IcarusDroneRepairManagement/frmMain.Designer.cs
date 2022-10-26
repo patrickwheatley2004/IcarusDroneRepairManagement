@@ -299,7 +299,7 @@
             this.lbFinished.FormattingEnabled = true;
             this.lbFinished.Location = new System.Drawing.Point(668, 25);
             this.lbFinished.Name = "lbFinished";
-            this.lbFinished.Size = new System.Drawing.Size(120, 407);
+            this.lbFinished.Size = new System.Drawing.Size(210, 407);
             this.lbFinished.TabIndex = 14;
             this.lbFinished.DoubleClick += new System.EventHandler(this.lbFinished_DoubleClick);
             // 
@@ -345,7 +345,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(805, 473);
+            this.ClientSize = new System.Drawing.Size(890, 473);
             this.Controls.Add(this.btnUpdateRegular);
             this.Controls.Add(this.btnUpdateExpress);
             this.Controls.Add(this.label7);
